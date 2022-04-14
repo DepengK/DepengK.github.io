@@ -33,7 +33,7 @@ main {
 }
 
 h1 {
-  font-family: 'Oswald', sans-serif;
+  font-family: 'Lora', serif;
   font-size: calc(1em + 3vw);
   padding-bottom: .67em;
   border-bottom: 1px solid;
@@ -41,7 +41,7 @@ h1 {
 }
 
 h2 {
-  font-family: 'Oswald', sans-serif;
+  font-family: 'Lora', serif;
   font-size: 18px;
   font-weight: 600;
   letter-spacing: 0.3px;
@@ -121,7 +121,7 @@ a {
 
 .mins {
   display: inline-block;
-  font-family: 'Oswald', sans-serif;
+  font-family: 'Lora', serif;
   font-size: 14px;
   font-weight: 500;
   letter-spacing: 0.3px;
